@@ -1,0 +1,15 @@
+INDIGO | A | 50 | B | 1
+GOAIRW | C | 50 | F | 2
+JETAIR | B | 50 | A | 3
+AIRIND | D | 50 | F | 4
+SPIJET | A | 50 | C | 5
+AIRASI | A | 50 | D | 6
+INDIGO | A | 50 | E | 7
+JETAIR | E | 50 | A | 8
+AIRASI | D | 50 | B | 9
+INDIGO | B | 50 | D | 10
+AIRASI | B | 50 | E | 11
+SPIJET | E | 50 | B | 12
+INDIGO | C | 50 | A | 13
+GOAIRW | F | 50 | D | 14
+JETAIR | F | 50 | C | 15
